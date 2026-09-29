@@ -1,0 +1,8 @@
+{
+  "name": "Remix TM Pro Video Editor",
+  "description": "A streamlined and professional video editing application for mobile content creators to edit and manage projects efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
